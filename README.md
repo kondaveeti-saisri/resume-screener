@@ -15,5 +15,4 @@ An AI-powered tool that reads and extracts text from PDF resumes using Python an
 
 ---
 
-## 📁 Project Structure
 
